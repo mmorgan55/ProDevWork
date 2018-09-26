@@ -16,3 +16,13 @@ a harder time getting a job after the bootcamp.
     - Similarly with the second point, I am very much a perfectionist when it comes to coding. This can lead
       to me being frustrated and overwokring on one part of project for too long and losing time for the
       overall project.
+
+* Passion Project
+    - I of my biggest hobbies is playing videogames. For someone like me, videogames can somtimes be a release, 
+      but they can also be a way to challenge both my logical brain and my creative brain. For example,
+      I play a lot of puzzles games. This is very straightforward in how that helps my logical brain, but it 
+      also helps my creative brain as well. Sometimes, even puzzles have creative and unique ways that they can 
+      be solved, which helps the creative side of my brain. Another thing I like to do with videogames is 
+      actually try to break them. Not physically obviously, but push the software in such a way that it breaks.
+      Games rarely break in the way that you would think and it is very helpful to my creative brain just think
+      of ways to do this. Once I do break it, I can use my logical brain to determine why it broke.
