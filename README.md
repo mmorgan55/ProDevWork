@@ -29,7 +29,7 @@ a harder time getting a job after the bootcamp.
       of ways to do this. Once I do break it, I can use my logical brain to determine why it broke.
       
 * Golden Circle/Bullseye
-[Golden Circle](GoldenCircleMM.PNG)
+- Golden Circle](GoldenCircleMM.PNG)
       
 * Elevator pitch
     - Hello, my name is Matthew. I am trying to get a software development job at this company that expand my
