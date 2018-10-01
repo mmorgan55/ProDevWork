@@ -30,6 +30,8 @@ a harder time getting a job after the bootcamp.
       
 * Golden Circle/Bullseye
     - [Golden Circle](GoldenCircleMM.PNG)
+* Resume
+    - [Resume](MMorganResume.docx)
       
 * Elevator pitch
     - Hello, my name is Matthew. I am trying to get a software development job at this company that expand my
