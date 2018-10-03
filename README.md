@@ -1,5 +1,5 @@
 # ProDevStory
-(9/26/2018)
+## Week 1
 Today is the first day of writing this. We had to pick a ProDev buddy using the free market strategy.
 I need to make sure that I put some focus into networking while I am in the bootcamp or I risk having
 a harder time getting a job after the bootcamp. 
@@ -45,3 +45,7 @@ Overall, I think this week was a great step forward for me in really developing 
 the software development job market. I'm not the greatest public speaker, so I really liked how we are being forced
 into those situations to really get that practice. I can't really think of anything negative in terms of what we
 learned and did this week in regards to ProDev work. I look forward to to learning more next week.
+
+## Week 2
+* Burner Assignment
+
