@@ -50,8 +50,7 @@ learned and did this week in regards to ProDev work. I look forward to to learni
 * Burner Assignment
     - [Burner](Burner.PNG)
     
-* Non-Profit
-  Homeless Animal Rescue Team of New Mexico - (HARTNM)
+* Non-Profit: Homeless Animal Rescue Team of New Mexico - (HARTNM)
     - Carolyn Taylor
     - Phone: (505-463-0010) E-mail: carolyntaylor@att.net
     - [HARTNM Website](https://www.hartnm.com/)
@@ -61,8 +60,7 @@ learned and did this week in regards to ProDev work. I look forward to to learni
     - The woman that runs this charity is a family friend so it phone or in-person meeting would be the easiest means of
       contact.
  
- * For-Profit
-   Magokoro Japanese Restaurant
+ * For-Profit: Magokoro Japanese Restaurant
     - Takako Bowen
     - Phone: (505-830-2061)
     - [Magokoro Website](http://magokoroabq.com/)
