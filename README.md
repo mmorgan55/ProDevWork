@@ -49,3 +49,38 @@ learned and did this week in regards to ProDev work. I look forward to to learni
 ## Week 2
 * Burner Assignment
     - [Burner](Burner.PNG)
+    
+* Non-Profit
+  Homeless Animal Rescue Team of New Mexico - (HARTNM)
+    - Carolyn Taylor
+    - Phone: (505-463-0010) E-mail: carolyntaylor@att.net
+    - [HARTNM Website](https://www.hartnm.com/)
+    - I selected this non-profit because of their work with helping animals that need it the most. I also believe that
+      I could help them reach more people and grow the number of animals they could help by improving their website and
+      possibly builing an app for them.
+    - The woman that runs this charity is a family friend so it phone or in-person meeting would be the easiest means of
+      contact.
+ 
+ * For-Profit
+   Magokoro Japanese Restaurant
+    - Takako Bowen
+    - Phone: (505-830-2061)
+    - [Magokoro Website](http://magokoroabq.com/)
+    - This is one of my favorite restaurants in Albuquerque and I think that I could help expand their customer base
+      by developiung an app to make it easier to order food from them as it is almost always packed during lunch and
+      dinner.
+    - As someone who frequents it reguarly, I would probably just go in and talk about it with the owner.
+    
+* Salary Expectations
+    - Before beginning the bootcamp, I thought that after the bootcamp, I would probably make around 50k once I was
+      done. I still do think that to be a realistic goal, but maybe not immediately after I have completed the bootcamp.
+      I think a better option would be to go into an internship/apprenticeship type position to be less of a liability
+      for the company initially and prove myself first before getting an entry level position somewhere.
+      
+ ### Weekly Reflection (10/1 - 10/5)
+ 
+ This week was a little bit more relaxed in terms of professional development and more focused on planning for the future.
+ A lot of this came down want I want for myself after the bootcamp, including having to research two different places I
+ would consider providing my services to. I will say it was much more difficult to find contact information for certain 
+ places than others, but some friends-of-family connections, did make it slightly easier. Overall, a nice week to help
+ develop my plans post-bootcamp.
