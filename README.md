@@ -1,4 +1,6 @@
 # ProDevStory
+## * Resume
+    - <a href="MMorganResume.docx" download>Click to Download</a>
 ## Week 1
 Today is the first day of writing this. We had to pick a ProDev buddy using the free market strategy.
 I need to make sure that I put some focus into networking while I am in the bootcamp or I risk having
@@ -30,8 +32,6 @@ a harder time getting a job after the bootcamp.
       
 * Golden Circle/Bullseye
     - [Golden Circle](GoldenCircleMM.PNG)
-* Resume
-    - <a href="MMorganResume.docx" download>Click to Download</a>
       
 * Elevator pitch
     - Hello, my name is Matthew. I am trying to get a software development job at this company that expand my
@@ -82,3 +82,5 @@ learned and did this week in regards to ProDev work. I look forward to to learni
  would consider providing my services to. I will say it was much more difficult to find contact information for certain 
  places than others, but some friends-of-family connections, did make it slightly easier. Overall, a nice week to help
  develop my plans post-bootcamp.
+
+## Week 3
