@@ -84,3 +84,21 @@ learned and did this week in regards to ProDev work. I look forward to to learni
  develop my plans post-bootcamp.
 
 ## Week 3
+### Visual Speaks Activity
+![Picture One](picture_one.jpg)
+* Represents me still trying to find what I want and the skills that I need to really start off my career as a 
+software developer.
+
+
+
+![Picture Two](picture_two.jpg)
+* Represents me having a decent job three years down the line, but still trying to climb to bigger and better 
+places in the software development job market.
+
+
+
+* To bridge the gap between the two career statuses, I will first be finishing the bootcamp that I am currently in
+and the proceed into finding the first job to get my foot in the door. Once I do have my foot in the door, I will 
+continue to hone and refine my skills as a developer in that job and hopefully move from entry level to a 
+higher position within a company. From there, I hope to still be climbing up into new and more skilled positions
+with new companies, hopefully with great ideas for the future of technology. 
