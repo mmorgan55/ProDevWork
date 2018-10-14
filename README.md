@@ -102,3 +102,13 @@ and the proceed into finding the first job to get my foot in the door. Once I do
 continue to hone and refine my skills as a developer in that job and hopefully move from entry level to a 
 higher position within a company. From there, I hope to still be climbing up into new and more skilled positions
 with new companies, hopefully with great ideas for the future of technology. 
+
+### Googling Myself
+* After searching for myself on Google, the only things that I found that were related to myself was a video interview
+that I did while I was in Japan and my LinkedIn account. Overall, I think that arecruiter would be interested in the 
+fact that I have been in a different country and could possibly see me as a more cultured individual which could help
+during the hiring process. Something else that a recruiter might think is that I'm not very engaged in the development
+community since the only things that I was able to find were a LinkedIn and that interview. I think the best course of
+action would be to create some more social media accounts to engage more and possibly get some of those accounts higher
+on a search index.
+
