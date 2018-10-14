@@ -75,7 +75,7 @@ learned and did this week in regards to ProDev work. I look forward to to learni
      I think a better option would be to go into an internship/apprenticeship type position to be less of a liability
      for the company initially and prove myself first before getting an entry level position somewhere.
       
- ### Weekly Reflection (10/1 - 10/5)
+### Weekly Reflection (10/1 - 10/5)
  
  This week was a little bit more relaxed in terms of professional development and more focused on planning for the future.
  A lot of this came down want I want for myself after the bootcamp, including having to research two different places I
@@ -112,3 +112,13 @@ community since the only things that I was able to find were a LinkedIn and that
 action would be to create some more social media accounts to engage more and possibly get some of those accounts higher
 on a search index.
 
+### Identity Table
+![Identity Table](IdentityTable.PNG)
+
+### Weekly Reflection (10/8 - 10/12)
+
+This is the week that most of the staff was warning would be where everything really started to ramp up, and they were
+right. This was the first week where there were a couple of times that I did not really understand what was going on.
+It was also the week where it was decided that the most amount of new information on some of the tools that will be
+used for our apps decided to come up. I think from now on I will have to be more vocal during the class so that I can
+stay with what we are learning. I definitely don't want to feel like I am being left behind.
