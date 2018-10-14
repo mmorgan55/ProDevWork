@@ -1,6 +1,6 @@
 # ProDevStory
 ## Resume
-<a href="MMorganResume.docx" download>Click to Download Resume</a>
+<a href="MMorganResume.pdf" download>Click to Download Resume</a>
 ## Week 1
 Today is the first day of writing this. We had to pick a ProDev buddy using the free market strategy.
 I need to make sure that I put some focus into networking while I am in the bootcamp or I risk having
