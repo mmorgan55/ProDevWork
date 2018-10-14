@@ -6,12 +6,12 @@ Today is the first day of writing this. We had to pick a ProDev buddy using the 
 I need to make sure that I put some focus into networking while I am in the bootcamp or I risk having
 a harder time getting a job after the bootcamp. 
 
-* Quantative accomplishments:
+### Quantative accomplishments:
     - I have exercised 8 of the last 10 days 
     - During that time I have lost 2.5 pounds in that time.
     - I have lived in a dirrent country entirely on my own for 9 months.
 
-* Qualitative Features:
+### Qualitative Features:
     - I have a good work etic, but that can lead to sometimes overworking myself.
     - I have very good attention to detail, especially when it comes to coding, but this mean that I sometimes
       get lost in the minute details rather than looking at grand scope of what I am working on and can lose
@@ -20,7 +20,7 @@ a harder time getting a job after the bootcamp.
       to me being frustrated and overwokring on one part of project for too long and losing time for the
       overall project.
 
-* Passion Project
+### Passion Project
     - I of my biggest hobbies is playing videogames. For someone like me, videogames can somtimes be a release, 
       but they can also be a way to challenge both my logical brain and my creative brain. For example,
       I play a lot of puzzles games. This is very straightforward in how that helps my logical brain, but it 
@@ -30,10 +30,10 @@ a harder time getting a job after the bootcamp.
       Games rarely break in the way that you would think and it is very helpful to my creative brain just think
       of ways to do this. Once I do break it, I can use my logical brain to determine why it broke.
       
-* Golden Circle/Bullseye
+### Golden Circle/Bullseye
     - [Golden Circle](GoldenCircleMM.PNG)
       
-* Elevator pitch
+### Elevator pitch
     - Hello, my name is Matthew. I am trying to get a software development job at this company that expand my
       skillset. I am currently doing a Java and Android bootcamp to help refine the skill I already have. Do you
       have any job opportunities?
@@ -50,7 +50,7 @@ learned and did this week in regards to ProDev work. I look forward to to learni
 * Burner Assignment
     - [Burner](Burner.PNG)
     
-* Non-Profit: Homeless Animal Rescue Team of New Mexico - (HARTNM)
+### Non-Profit: Homeless Animal Rescue Team of New Mexico - (HARTNM)
     - Carolyn Taylor
     - Phone: (505-463-0010) E-mail: carolyntaylor@att.net
     - [HARTNM Website](https://www.hartnm.com/)
@@ -60,7 +60,7 @@ learned and did this week in regards to ProDev work. I look forward to to learni
     - The woman that runs this charity is a family friend so it phone or in-person meeting would be the easiest means of
       contact.
  
- * For-Profit: Magokoro Japanese Restaurant
+ ### For-Profit: Magokoro Japanese Restaurant
     - Takako Bowen
     - Phone: (505-830-2061)
     - [Magokoro Website](http://magokoroabq.com/)
@@ -69,7 +69,7 @@ learned and did this week in regards to ProDev work. I look forward to to learni
       dinner.
     - As someone who frequents it reguarly, I would probably just go in and talk about it with the owner.
     
-* Salary Expectations
+### Salary Expectations
     - Before beginning the bootcamp, I thought that after the bootcamp, I would probably make around 50k once I was
       done. I still do think that to be a realistic goal, but maybe not immediately after I have completed the bootcamp.
       I think a better option would be to go into an internship/apprenticeship type position to be less of a liability
