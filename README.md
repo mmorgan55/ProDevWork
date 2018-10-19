@@ -122,3 +122,13 @@ right. This was the first week where there were a couple of times that I did not
 It was also the week where it was decided that the most amount of new information on some of the tools that will be
 used for our apps decided to come up. I think from now on I will have to be more vocal during the class so that I can
 stay with what we are learning. I definitely don't want to feel like I am being left behind.
+
+## Week 4
+### Game Reflection
+
+* After playing Forbidden Island, I was very interested about what I saw from my other two teammates, as well as myself.
+I believe that Chantelle is very much someone who likes to lead and always tries to get her ideas out there to see what
+others think. Leslie was more passive, but also very analytical, which I believe to be a very good trait for any software
+developer. As for myself, I was also doing my best to try and lead during the game, but not in an assertive way. It was 
+more of a collaborative effort in trying to find the best possible ways to win the game. Overall, I think playing this 
+game really illustrated individual strengths, but also out strengths as a team.
