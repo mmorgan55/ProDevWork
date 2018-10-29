@@ -132,3 +132,6 @@ others think. Leslie was more passive, but also very analytical, which I believe
 developer. As for myself, I was also doing my best to try and lead during the game, but not in an assertive way. It was 
 more of a collaborative effort in trying to find the best possible ways to win the game. Overall, I think playing this 
 game really illustrated individual strengths, but also out strengths as a team.
+
+### Ground Rules
+[Ground Rules](https://docs.google.com/document/d/1O3z-_NXugW70joNWoAaKLGamrEjx7ZsA-OffdAFP9Fc/edit?ts=5bc76968)
