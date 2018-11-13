@@ -135,3 +135,15 @@ game really illustrated individual strengths, but also out strengths as a team.
 
 ### Ground Rules
 [Ground Rules](https://docs.google.com/document/d/1O3z-_NXugW70joNWoAaKLGamrEjx7ZsA-OffdAFP9Fc/edit?ts=5bc76968)
+
+## Week 5
+## Week 6
+## Week 7
+### One Million Cups Networking Reflection
+
+* Overall, I think that my experience with networking at One Million Cups was very helpful for me. I was able to have a 
+decent conversation with one of the people that came. I was talked with him about opportunities for someone with my 
+experience and was able to get some very good advice from him for when I do complete the bootcamp. In terms of what I learned
+from the networking experience, I think that I learned that being able to talk with people with far more experience than 
+yourself is a very important skill, but also not really asx hard that it might seem to be. I look foarward to more 
+opportunities to do this in the future.
